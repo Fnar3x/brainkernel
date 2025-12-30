@@ -3,6 +3,9 @@
 ┣┻┓┣┳┛┣━┫┃┃┗┫┣┻┓┣╸ ┣┳┛┃┗┫┣╸ ┃  
 ┗━┛╹┗╸╹ ╹╹╹ ╹╹ ╹┗━╸╹┗╸╹ ╹┗━╸┗━╸                                                                                                             
 ```
+
+> **"What if the Linux Kernel had a prefrontal cortex?"**
+
 ### The Sassy, Context-Aware Process Manager
 
 **"Task Manager is boring. BrainKernel is judgmental."**
@@ -77,6 +80,7 @@ Found a new vendor bloatware process? PRs welcome to the `BLOATWARE` list in `ma
 ---
 
 *Built with Python & Textual. Powered by Llama 3.*
+
 
 
 
