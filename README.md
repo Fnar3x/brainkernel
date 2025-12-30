@@ -1,3 +1,5 @@
+```text
+
 # .______   .______          ___       __  .__   __.  __  ___  _______ .______      .__   __.  _______  __      
 # |   _  \  |   _  \        /   \     |  | |  \ |  | |  |/  / |   ____||   _  \     |  \ |  | |   ____||  |     
 # |  |_)  | |  |_)  |      /  ^  \    |  | |   \|  | |  '  /  |  |__   |  |_)  |    |   \|  | |  |__   |  |     
@@ -5,7 +7,7 @@
 # |  |_)  | |  |\  \----./  _____  \  |  | |  |\   | |  .  \  |  |____ |  |\  \----.|  |\   | |  |____ |  `----.
 # |______/  | _| `._____/__/     \__\ |__| |__| \__| |__|\__\ |_______|| _| `._____||__| \__| |_______||_______|
                                                                                                               
-
+```
 ### The Sassy, Context-Aware Process Manager
 
 **"Task Manager is boring. BrainKernel is judgmental."**
@@ -80,3 +82,4 @@ Found a new vendor bloatware process? PRs welcome to the `BLOATWARE` list in `ma
 ---
 
 *Built with Python & Textual. Powered by Llama 3.*
+
