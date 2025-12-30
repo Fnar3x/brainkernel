@@ -7,7 +7,7 @@
 
 **"Task Manager is boring. BrainKernel is judgmental."**
 
-![Demo](https://via.placeholder.com/800x400?text=Insert+Your+Demo+GIF+Here)
+![Demo]([https://via.placeholder.com/800x400?text=Insert+Your+Demo+GIF+Here](https://raw.githubusercontent.com/mprajyothreddy/brainkernel/refs/heads/main/brainkernelinaction.gif))
 
 BrainKernel is a TUI (Terminal User Interface) process manager that uses an LLM to analyze *why* a process is running. It doesn't just show CPU usage; it looks at parentage, disk I/O, and behavior history to distinguish between "Critical System Update" (Safe) and "Vendor Bloatware" (Kill).
 
@@ -77,5 +77,6 @@ Found a new vendor bloatware process? PRs welcome to the `BLOATWARE` list in `ma
 ---
 
 *Built with Python & Textual. Powered by Llama 3.*
+
 
 
