@@ -73,6 +73,11 @@ BrainKernel is designed to be safe, even when the AI is sassy.
 2. **PID Safety Lock:** Before killing anything, it verifies the target's `create_time`. If a PID was recycled by the OS in the last 100ms, the kill is aborted.
 3. **Debouncing:** It remembers decisions for 5 minutes. It won't spam you about the same process twice.
 
+### 🚧 Roadmap (Community Suggestions)
+* [ ] **Process Defense Attorney:** An agent that argues *for* the process before BrainKernel kills it. (Suggested by HN user QuantumNomad_)
+* [ ] **Focus Mode:** Ruthlessly kill "procrastination" processes (Steam, Discord) during work hours. (Suggested by HN user gillesjacobs)
+* [ ] 
+
 ## Contributing
 
 Found a new vendor bloatware process? PRs welcome to the `BLOATWARE` list in `main.py`.
@@ -80,6 +85,7 @@ Found a new vendor bloatware process? PRs welcome to the `BLOATWARE` list in `ma
 ---
 
 *Built with Python & Textual. Powered by Llama 3.*
+
 
 
 
